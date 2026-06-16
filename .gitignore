@@ -1,0 +1,47 @@
+# Sensitive information
+firebase_config.h
+*.secret
+*.key
+
+# Arduino build artifacts
+*.ino.cpp
+*.ino.d
+*.ino.eep
+*.ino.elf
+*.ino.hex
+build/
+
+# Flutter/Dart
+firebase_options.h
+firebase_options.dart
+weather_config.dart
+.metadata
+.packages
+.dart_tool/
+build/
+*.lock
+
+# MATLAB
+*.asv
+*.mex*
+*.mat         
+slprj/
+
+# Python 
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Large files (>100MB)
+*.zip
+*.7z
+*.tar.gz
+*.mp4
+*.raw
