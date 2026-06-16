@@ -7,7 +7,6 @@ This project designs and develops a solar powered Net Zero Energy Building (NZEB
 **Supervisor:** Bob Lawlor  
 **Institution:** Maynooth University, Department of Electronic Engineering
 
-## Repository Structure
 
 ## Key Results
 - Annual energy saving: **23.7%** (1,892 kWh) via IoT optimization
